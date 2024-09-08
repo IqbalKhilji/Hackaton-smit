@@ -1,1 +1,1 @@
-# Hackaton-smit
+# Mini-project-smit
